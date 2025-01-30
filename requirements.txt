@@ -1,0 +1,9 @@
+requests
+pandas
+lyricsgenius
+deepseek-api  # Replace with actual DeepSeek library if different
+scikit-learn
+nltk
+transformers
+streamlit
+python-dotenv
